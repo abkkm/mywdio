@@ -12,3 +12,4 @@ Git Graph
 VS Code ESLint extension
 ES6 Mocha Snippets
 Bracket Pair Colorizer 2
+Paste JSON as Code quicktype
